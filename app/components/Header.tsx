@@ -7,7 +7,7 @@ export default function Header() {
   return (
     <div className="h-15 mb-5 mx-5 flex flex-row justify-between items-baseline">
       <a href="/">
-        <h1 className="m-5 text-5xl font-bold">Fasanhuset</h1>
+        <h1 className="m-5 font-bold">Fasanhuset</h1>
       </a>
       <nav>
         <ul className="flex flex-row justify-evenly">

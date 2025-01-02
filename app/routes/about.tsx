@@ -1,7 +1,7 @@
 export default function About() {
   return (
     <>
-      <h1>About</h1>
+      <h2>About</h2>
       <p>
         Fasanhuset is a student housing community located in the heart of
         Frederiksberg, managed by{" "}
